@@ -18,14 +18,14 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: ederlimarh@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "mailto: ederlimarh@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href = "https://www.linkedin.com/in/eder-lima-5515271aa/">
-      <img width="25" src="linkedin.svg">
+    <a href = "https://www.linkedin.com/in/eder-lima-5515271aa/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href = "https://www.instagram.com/ederlimapm/">
-      <img width="25" src="instagram.png">
+    <a href = "https://www.instagram.com/ederlimapm/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
   
